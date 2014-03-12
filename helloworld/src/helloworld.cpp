@@ -11,11 +11,5 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "!!!vaffa!!!" << endl; // prints !!!Hello World!!!
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
-
-
-//boh prova secondo commit
-//boh prova 3
